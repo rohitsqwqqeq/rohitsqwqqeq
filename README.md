@@ -1,3 +1,5 @@
+![logo](https://github.com/rohitsqwqqeq/rohitsqwqqeq/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
